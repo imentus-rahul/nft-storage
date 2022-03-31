@@ -3,7 +3,7 @@
   "symbol": "CIRC",
   "description": "Circle Mastermind NFT",
   "seller_fee_basis_points": 2000,
-  "animation_url": "https://arweave.net/SuRJK0fVU2Mg1L0qIJggeNQsWhHz7HUOboS9-gGhPAg?ext=mp4",
+  "animation_url": "https://arweave.net/UmY18atAuikgHThPVy1J5KVtj26SCZB7sBdM1oFjPH4?ext=mp4",
   "attributes": [],
   "properties": {
     "creators": [
@@ -15,7 +15,7 @@
     "category": "video",
     "files": [
       {
-        "uri": "https://arweave.net/SuRJK0fVU2Mg1L0qIJggeNQsWhHz7HUOboS9-gGhPAg?ext=mp4",
+        "uri": "https://arweave.net/UmY18atAuikgHThPVy1J5KVtj26SCZB7sBdM1oFjPH4?ext=mp4",
         "type": "video/mp4"
       }
     ]
