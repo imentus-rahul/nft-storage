@@ -3,6 +3,7 @@
   "symbol": "CIRC",
   "description": "Circle Mastermind NFT",
   "seller_fee_basis_points": 2000,
+  "image": "https://raw.githubusercontent.com/imentus-rahul/nft-storage/main/image.png",
   "animation_url": "https://arweave.net/UmY18atAuikgHThPVy1J5KVtj26SCZB7sBdM1oFjPH4?ext=mp4",
   "attributes": [],
   "properties": {
