@@ -1,0 +1,27 @@
+{
+  "name": "Circle Mastermind #0008",
+  "symbol": "CIRC",
+  "description": "Circle Mastermind NFT",
+  "seller_fee_basis_points": 2000,
+  "animation_url": "https://raw.githubusercontent.com/imentus-rahul/nft-storage/main/LogoWithCircle.mp4",
+  "attributes": [],
+  "properties": {
+    "creators": [
+      {
+        "address": "CYkCiA1a2sBTfXoK1gQQpMdLcFVW7veHy3WqPw5d8U97",
+        "share": 100
+      }
+    ],
+    "category": "video",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/imentus-rahul/nft-storage/main/LogoWithCircle.mp4",
+        "type": "video/mp4"
+      }
+    ]
+  },
+  "collection": {
+    "name": "Circle Mastermind NFT",
+    "family": "Circle Mastermind NFT"
+  }
+}
